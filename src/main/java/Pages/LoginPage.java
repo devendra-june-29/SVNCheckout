@@ -39,6 +39,7 @@ public class LoginPage {
 		
 		System.out.println("LoginPage ------>> This is edited code!!!");
 		
+		System.out.println("LoginPage ------>> This is Newly edited code!!!");
 	}
 
 }
