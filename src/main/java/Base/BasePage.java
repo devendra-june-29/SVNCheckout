@@ -48,7 +48,10 @@ public class BasePage {
 		driver.get(prop.getProperty("url"));
 		
 		driver.manage().window().maximize(); // Open window in maximize mode
-		
+
+		System.out.println("Added this line from another developer!");
+
+
 		return driver;
 	}
 	
