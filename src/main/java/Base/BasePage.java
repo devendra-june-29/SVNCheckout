@@ -51,6 +51,8 @@ public class BasePage {
 
 		System.out.println("Added this line from another developer!");
 
+		System.out.println("Another developer added this code to test PULL request functionality: OK");
+
 
 		return driver;
 	}
